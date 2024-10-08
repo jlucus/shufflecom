@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="resources/img/misc/win5x_logo_black.png" alt="Win5X Logo">
-</p>
-<p align="center">
-    <img src="https://img.shields.io/static/v1.svg?label=version&message=3.6.0&color=black">
-</p>
 
 # Shufflecom.com Vue Release
 Shufflecom Vue release. Use on own risk, works fine.
@@ -21,7 +15,7 @@ Install **fork** of `laravel-echo-server`:
 npm install -g laravel-echo-server-whisper
 ```
 
-- If NPM repository is down, install it from [https://github.com/Win5X-Team/laravel-echo-server](https://github.com/Win5X-Team/laravel-echo-server)
+- If NPM repository is down, install it from https://github.com/jlucus/shufflecom/laravel-echo-server
 
 ### Private Keys & WS Encryption
 
