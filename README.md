@@ -5,10 +5,10 @@
     <img src="https://img.shields.io/static/v1.svg?label=version&message=3.6.0&color=black">
 </p>
 
-# Win5x Vue Release - Free
-Win5x Vue release. Use on own risk, works fine. However, if you want real solid gambling site with slots from 17 gameproviders like Netent check out: www.datagamble.com
+# Shufflecom.com Vue Release
+Shufflecom Vue release. Use on own risk, works fine.
 
-Enjoy, if you need help or want to start up serious gambling platform add @isaac_kohen to Telegram.
+Enjoy, if you need help or want to start up serious gambling platform add @supitsj to Telegram.
 
 
 # Installation
